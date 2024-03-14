@@ -19,5 +19,5 @@ media_bimestral = (media/4) + media_bimestral
 media =0;
 n = 0;
 }
-console.log(`A media bimestral dos alunos é igual ${media_bimestral/alunos}`)
+console.log(`A media bimestral dos alunos é igual ${media_bimestral/alunos }`)
 
