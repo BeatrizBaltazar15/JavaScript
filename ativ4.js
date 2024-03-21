@@ -8,5 +8,8 @@ for (let i = 3; i<=20; i++) {
     let proximo = anterior+atual;
 
 console.log(proximo)
+anterior = atual;
+atual = proximo;
 }
+
 
